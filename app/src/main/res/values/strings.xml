@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Project3_EkaAperindaPutri</string>
+    <string name="app_name">APLIKASI LISTVIEW</string>
+    <string-array name="country">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Italia</item>
+        <item>Inggris</item>
+        <item>Belanda</item>
+        <item>Argentina</item>
+        <item>Chile</item>
+        <item>Mesir</item>
+        <item>Uganda</item>
+    </string-array>
 </resources>
